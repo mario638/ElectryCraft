@@ -3,7 +3,7 @@
 [Update #8]
 Name = ElectryCraft 2.3
 ProductVersion = 2.3.0.0
-URL = https://raw.githubusercontent.com/mario638/ElectryCraft/main/ElectryCraft.exe
+URL = https://electrycraft.es/ElectryCraft.exe
 Size = 242332440
 SHA256 = 59CCE35CBD47366116EFB7ADDAF8B375282A593574E695FE2B9BE7AD1D7A7B15
 MD5 = 68aa5083e630c1c3d3444c021ecd65f1
@@ -13,7 +13,7 @@ RegistryKey = HKUD\Software\mario638\ElectryCraft 2.3\Version
 Version = 2.3.0.0
 Feature = Se ha agregado el Launcher
 Feature1 = Se ha mejorado los FPS
-Feature2 = Se ha añadido animaciones
+Feature2 = Se ha aÃ±adido animaciones
 Replaces = All
 
 [Update #7]
@@ -53,7 +53,7 @@ MD5 = 68aa5083e630c1c3d3444c021ecd65f1
 ServerFileName = ElectryCraft.exe
 RegistryKey = HKUD\Software\Mario638\ElectryCraft 1.6\Version
 Version = 1.6.0.0
-Description = Se han añadido nuevas cosas
+Description = Se han aï¿½adido nuevas cosas
 Feature = Se ha vuelto a poner el minimapa
 BugFix = Mini Mapa
 Replaces = All
